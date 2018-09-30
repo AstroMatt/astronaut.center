@@ -19,8 +19,5 @@ Analog Astronaut Training Center was established to promote professional human s
 
 
 ## For more information please contact us
-- [agata@astronaut.center](mailto:agata@astronaut.center) - Co-Founder and Project Manager
-- [matt@astronaut.center](mailto:matt@astronaut.center) - Head of Astronaut Training
-
 ![Agata](agata.jpg)
 ![Matt](matt.jpg)
