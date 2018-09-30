@@ -1,1 +1,26 @@
 theme: minima
+author: AstroMatt
+email: matt@astronaut.center
+title: Analog Astronaut Training Center
+description: Analog Astronaut Training Center was established to promote professional human spaceflight education, experience and culture for upcoming new era of space exploration.
+show_downloads: false
+google_analytics: UA-92351316-6
+
+header_pages:
+  - about.md
+
+minima:
+  date_format: "%Y-%m-%d"
+
+twitter_username: astro_matt
+github_username:  AstroMatt
+facebook_username: matt.harasymczuk
+flickr_username: astromatt
+instagram_username: astromatt_
+linkedin_username: mattharasymczuk
+youtube_username: mattharasymczuk
+rss: rss
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
