@@ -11,5 +11,6 @@ You can develop unique skills with us by participating in:
 
 ## OUR GOAL IS TO HELP YOU TO BECOME AN ASTRONAUT
 
-## For more information please contact us via website:
-[www.astronaut.center](http://www.astronaut.center)
+## For more information please contact us:
+- agata@astronaut.center - Co-Founder and Project Manager
+- matt@astronaut.center - Head of Astronaut Training
