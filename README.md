@@ -1,6 +1,8 @@
 ![logo](logo.jpg)
 
-Analog Astronaut Training Center was established to promote professional human spaceflight education, experience and culture for upcoming new era of space exploration.
+
+# Analog Astronaut Training Center
+was established to promote professional human spaceflight education, experience and culture for upcoming new era of space exploration.
 
 
 
