@@ -2,6 +2,7 @@
 
 was established to promote professional human spaceflight education, experience and culture for upcoming new era of space exploration.
 
+![logo](logo.jpg)
 
 ## You can develop unique skills with us by participating in:
 
