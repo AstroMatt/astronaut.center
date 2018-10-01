@@ -13,9 +13,7 @@ was established to promote professional human spaceflight education, experience 
 - rocket construction workshops;
 - orbital, asteroid, lunar and martian mission simulations (as analog astronauts or mission control crew).
 
-
 ## OUR GOAL IS TO HELP YOU TO BECOME AN ASTRONAUT
-
 
 ## For more information please contact us
 ![Agata](agata.jpg)
